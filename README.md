@@ -33,7 +33,7 @@ um Ihre Lösung zu testen.
 
 ### Abgabe
 
-* **Termin:** 25.07.2022
+* **Termin:** 26.07.2022
 
 ### Prüfungsgespräche
 
